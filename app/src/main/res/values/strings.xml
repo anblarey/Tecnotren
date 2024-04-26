@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tecnotren</string>
+    <string name="hint_serie">Serie</string>
+    <string name="hint_servicio">Servicio</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_traccion">Tracción</string>
+    <string name="hint_velocidad">Velocidad</string>
+    <string name="hint_anchovia">Ancho de vía</string>
+    <string name="hint_plazas">Plazas</string>
+    <string name="hint_puestaservicio">Puesta en servicio</string>
+    <string name="hint_unidades">Unidades</string>
+    <string name="btn_guarda">Registrar Tren</string>
+    <string name="menu_nuevo">Nuevo tren</string>
+</resources>
